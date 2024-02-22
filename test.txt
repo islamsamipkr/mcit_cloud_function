@@ -1,10 +1,1 @@
 this is generic test file
-#cloud function changes trigger
-#small changes
-#small changes
-#added changrs
-adad
-#changes
-try now
-try now
-try now
